@@ -1,6 +1,50 @@
+header {
+    font-size: 24px;
+    text-align: center;
+    color: aqua;
+}
+
 #Pantry-items {
     background-color: aquamarine;
+    width: 17em;
+    border: solid 1px;
+    margin-left: -5px
 }
 #Canned-items {
     background-color: blue;
+}
+ul {
+    background-color: gray;
+    width: 10em;
+    float: left;
+    margin: 1em;
+    margin-left: -5px
+
+}
+
+#Freezer-items {
+
+    background-color: aquamarine;
+    width: 17em;
+    border: solid 1px;
+    margin-left: -5px
+
+}
+
+ol {
+    background-color: gray;
+    width: 10em;
+    float: left;
+    margin: 1em;
+    margin-left: -5px;
+}
+
+img {
+  height: 131.44px;
+  width: 200px;
+  border: solid 1px;
+    margin: 1em;
+    margin-left: -5px
+
+
 }
